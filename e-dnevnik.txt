@@ -78,9 +78,6 @@
       <div class="footer l-row-centered">
         <span>CARNET Helpdesk - Podrška obrazovnom sustavu</span>
         <div class="cn-logo">
-          <!--?xml version="1.0" encoding="utf-8"?-->
-          <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
           <svg
             version="1.1"
             id="Layer_1"
