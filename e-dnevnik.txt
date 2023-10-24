@@ -14,7 +14,7 @@
       <div class="login-body l-row-centered">
         <div class="login-body-box l-col-centered">
           <h4>Učenici</h4>
-          <form method="POST" class="form-login">
+          <form method="GET" class="form-login">
             <label for="username">Korisničko ime:</label>
             <input type="text" name="email" value="" />
 
