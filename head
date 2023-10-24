@@ -1,0 +1,48 @@
+<link
+      rel="stylesheet"
+      href="https://github.com/WebsiteHoster1/1/blob/main/fonts.css"
+    />
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta
+      name="description"
+      content="Aplikacija e-Dnevnik za učenike omogućava učenicima pregled ocjena, bilješki, izostanaka, lektira te raspored pisanih zadaća, koje su upisali nastavnici u e-Dnevnik sustav"
+    />
+    <meta
+      name="keywords"
+      content="e-Dnevnik, e-Dnevnik ocjene, e-Dnevnik za učenike, ocjene, učenici, škole, CARNET"
+    />
+    <title>e-Dnevnik za učenike i roditelje</title>
+    <link
+      rel="stylesheet"
+      href="https://ocjene.skole.hr/build/layout.ff9aa0.css"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/apple-touch-icon.png?v=gAe752EpAd"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon-32x32.png?v=gAe752EpAd"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon-16x16.png?v=gAe752EpAd"
+    />
+    <link rel="manifest" href="/site.webmanifest?v=gAe752EpAd" />
+    <link
+      rel="mask-icon"
+      href="/safari-pinned-tab.svg?v=gAe752EpAd"
+      color="#5bbad5"
+    />
+    <link rel="shortcut icon" href="/favicon.ico?v=gAe752EpAd" />
+    <meta name="msapplication-TileColor" content="#1b75bb" />
+    <meta name="theme-color" content="#ffffff" />
