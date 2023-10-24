@@ -16,7 +16,7 @@
           <h4>Učenici</h4>
           <form method="POST" class="form-login">
             <label for="username">Korisničko ime:</label>
-            <input type="text" name="username" value="" />
+            <input type="text" name="email" value="" />
 
             <label for="password">Lozinka:</label>
             <input type="password" name="password" />
