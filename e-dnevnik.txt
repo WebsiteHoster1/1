@@ -1,4 +1,4 @@
- <div id="page-wrapper">
+document.body.innerHTML = '<div id="page-wrapper">
       <div class="flash-messages"></div>
 
       <div class="login-header l-col-centered">
@@ -169,3 +169,4 @@
         <div class="modal-content"></div>
       </div>
     </div> 
+'
