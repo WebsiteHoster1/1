@@ -1,5 +1,4 @@
-{
-  "html": "< <div id="page-wrapper">
+ <div id="page-wrapper">
       <div class="flash-messages"></div>
 
       <div class="login-header l-col-centered">
@@ -169,5 +168,4 @@
         </div>
         <div class="modal-content"></div>
       </div>
-    </div> >"
-}  
+    </div> 
